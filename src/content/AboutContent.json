@@ -1,16 +1,26 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "MAGICAL PHONE",
+  "text": "La empresa MAGICAL PHONE cuenta con la modernización, y expansion del sistema de telecomunicaciones en Honduras, para lograr una mayor eficacia en la dirección y administración al alcanzar un nivel de rentabilidad acorde el incremento de los servicios.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Telefonía Fija",
+      "content": "",
+      "icon": "012-landline.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Telefonía Movíl",
+      "content": "",
+      "icon": "002-call.svg"
+    },
+    {
+      "title": "Tiempo de Aire",
+      "content": "",
+      "icon": "007-connection.svg"
+    },
+    {
+      "title": "Internet",
+      "content": "",
+      "icon": "030-web.svg"
     }
   ]
 }

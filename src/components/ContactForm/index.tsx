@@ -38,7 +38,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
               <Col span={24}>
                 <Input
                   type="text"
-                  name="name"
+                  name="Nombre"
                   placeholder="Your Name"
                   value={values.name || ""}
                   onChange={handleChange}
@@ -48,7 +48,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
               <Col span={24}>
                 <Input
                   type="text"
-                  name="email"
+                  name="Correo electrónico"
                   placeholder="Your Email"
                   value={values.email || ""}
                   onChange={handleChange}
@@ -59,7 +59,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                 <TextArea
                   placeholder="Your Message"
                   value={values.message || ""}
-                  name="message"
+                  name="Comentario"
                   onChange={handleChange}
                 />
                 <ValidationType type="message" />
